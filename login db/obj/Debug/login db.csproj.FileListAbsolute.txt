@@ -1,0 +1,191 @@
+F:\nitin project\require file\login db\login db\bin\Debug\Details.accdb
+F:\nitin project\require file\login db\login db\bin\Debug\test.accdb
+F:\nitin project\require file\login db\login db\bin\Debug\login db.exe.config
+F:\nitin project\require file\login db\login db\bin\Debug\login db.exe
+F:\nitin project\require file\login db\login db\bin\Debug\login db.pdb
+F:\nitin project\require file\login db\login db\obj\Debug\login_db.Login.resources
+F:\nitin project\require file\login db\login db\obj\Debug\login_db.main.resources
+F:\nitin project\require file\login db\login db\obj\Debug\login_db.Properties.Resources.resources
+F:\nitin project\require file\login db\login db\obj\Debug\login db.csproj.GenerateResource.Cache
+F:\nitin project\require file\login db\login db\obj\Debug\login db.exe
+F:\nitin project\require file\login db\login db\obj\Debug\login db.pdb
+F:\nitin project\require file\login db\login db\obj\Debug\login db.csprojResolveAssemblyReference.cache
+D:\New folder\require file\login db\login db\bin\Debug\Details.accdb
+D:\New folder\require file\login db\login db\bin\Debug\test.accdb
+D:\New folder\require file\login db\login db\bin\Debug\login db.exe.config
+D:\New folder\require file\login db\login db\bin\Debug\login db.exe
+D:\New folder\require file\login db\login db\bin\Debug\login db.pdb
+D:\New folder\require file\login db\login db\obj\Debug\login_db.Login.resources
+D:\New folder\require file\login db\login db\obj\Debug\login_db.main.resources
+D:\New folder\require file\login db\login db\obj\Debug\login_db.Properties.Resources.resources
+D:\New folder\require file\login db\login db\obj\Debug\login db.csproj.GenerateResource.Cache
+D:\New folder\require file\login db\login db\obj\Debug\login db.exe
+D:\New folder\require file\login db\login db\obj\Debug\login db.pdb
+D:\New Folder\login db - Copy\login db\bin\Debug\login db.exe.config
+D:\New Folder\login db - Copy\login db\obj\Debug\login db.exe
+D:\New Folder\login db - Copy\login db\obj\Debug\login db.pdb
+D:\New Folder\login db - Copy\login db\bin\Debug\Details.accdb
+D:\New Folder\login db - Copy\login db\bin\Debug\test.accdb
+D:\New Folder\login db - Copy\login db\bin\Debug\login db.exe
+D:\New Folder\login db - Copy\login db\bin\Debug\login db.pdb
+D:\New Folder\login db - Copy\login db\bin\Debug\AForge.dll
+D:\New Folder\login db - Copy\login db\bin\Debug\AForge.Video.DirectShow.dll
+D:\New Folder\login db - Copy\login db\bin\Debug\AForge.Video.dll
+D:\New Folder\login db - Copy\login db\bin\Debug\MessagingToolkit.Barcode.dll
+D:\New Folder\login db - Copy\login db\bin\Debug\MessagingToolkit.QRCode.dll
+D:\New Folder\login db - Copy\login db\bin\Debug\zxing.dll
+D:\New Folder\login db - Copy\login db\bin\Debug\zxing.presentation.dll
+D:\New Folder\login db - Copy\login db\bin\Debug\AForge.xml
+D:\New Folder\login db - Copy\login db\bin\Debug\AForge.Video.xml
+D:\New Folder\login db - Copy\login db\bin\Debug\AForge.Video.DirectShow.xml
+D:\New Folder\login db - Copy\login db\bin\Debug\zxing.pdb
+D:\New Folder\login db - Copy\login db\bin\Debug\zxing.xml
+D:\New Folder\login db - Copy\login db\bin\Debug\zxing.presentation.pdb
+D:\New Folder\login db - Copy\login db\bin\Debug\zxing.presentation.xml
+D:\New Folder\login db - Copy\login db\obj\Debug\login db.csprojResolveAssemblyReference.cache
+D:\New Folder\login db - Copy\login db\obj\Debug\login_db.Emplyeelog.resources
+D:\New Folder\login db - Copy\login db\obj\Debug\login_db.Login.resources
+D:\New Folder\login db - Copy\login db\obj\Debug\login_db.main.resources
+D:\New Folder\login db - Copy\login db\obj\Debug\login_db.module.resources
+D:\New Folder\login db - Copy\login db\obj\Debug\login_db.Properties.Resources.resources
+D:\New Folder\login db - Copy\login db\obj\Debug\login db.csproj.GenerateResource.Cache
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\Details.accdb
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\test.accdb
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\login db.exe.config
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\login db.exe
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\login db.pdb
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.dll
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.DirectShow.dll
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.dll
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\MessagingToolkit.Barcode.dll
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\MessagingToolkit.QRCode.dll
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.dll
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.presentation.dll
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.xml
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.xml
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.DirectShow.xml
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.pdb
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.xml
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.presentation.pdb
+D:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.presentation.xml
+D:\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.Emplyeelog.resources
+D:\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.Login.resources
+D:\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.main.resources
+D:\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.module.resources
+D:\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.Properties.Resources.resources
+D:\New Folder\require file\login db - Copy\login db\obj\Debug\login db.csproj.GenerateResource.Cache
+D:\New Folder\require file\login db - Copy\login db\obj\Debug\login db.exe
+D:\New Folder\require file\login db - Copy\login db\obj\Debug\login db.pdb
+D:\New Folder\require file\login db - Copy\login db\obj\Debug\login db.csprojResolveAssemblyReference.cache
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\login db.exe.config
+E:\New Folder\require file\login db - Copy\login db\obj\Debug\login db.exe
+E:\New Folder\require file\login db - Copy\login db\obj\Debug\login db.pdb
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\Details.accdb
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\test.accdb
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\login db.exe
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\login db.pdb
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.dll
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.DirectShow.dll
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.dll
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\MessagingToolkit.Barcode.dll
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\MessagingToolkit.QRCode.dll
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.dll
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.presentation.dll
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.xml
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.xml
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.DirectShow.xml
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.pdb
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.xml
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.presentation.pdb
+E:\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.presentation.xml
+E:\New Folder\require file\login db - Copy\login db\obj\Debug\login db.csprojResolveAssemblyReference.cache
+E:\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.Emplyeelog.resources
+E:\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.Login.resources
+E:\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.main.resources
+E:\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.module.resources
+E:\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.Properties.Resources.resources
+E:\New Folder\require file\login db - Copy\login db\obj\Debug\login db.csproj.GenerateResource.Cache
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\login db.exe.config
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\obj\Debug\login db.exe
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\obj\Debug\login db.pdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\Details.accdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\test.accdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\login db.exe
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\login db.pdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.presentation.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.xml
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.xml
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.pdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.xml
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.presentation.pdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\bin\Debug\zxing.presentation.xml
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\obj\Debug\login db.csprojResolveAssemblyReference.cache
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.Emplyeelog.resources
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.Login.resources
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.main.resources
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.module.resources
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\obj\Debug\login_db.Properties.Resources.resources
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\login db - Copy\login db\obj\Debug\login db.csproj.GenerateResource.Cache
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\login db.exe.config
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\obj\Debug\login db.exe
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\obj\Debug\login db.pdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\Details.accdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\test.accdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\login db.exe
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\login db.pdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\AForge.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\AForge.Video.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\zxing.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\zxing.presentation.dll
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\AForge.xml
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\AForge.Video.xml
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\zxing.pdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\zxing.xml
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\zxing.presentation.pdb
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\bin\Debug\zxing.presentation.xml
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\obj\Debug\login db.csprojResolveAssemblyReference.cache
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\obj\Debug\login_db.Emplyeelog.resources
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\obj\Debug\login_db.Login.resources
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\obj\Debug\login_db.main.resources
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\obj\Debug\login_db.module.resources
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\obj\Debug\login_db.Properties.Resources.resources
+C:\Users\nitin\Desktop\New Folder\New Folder\require file\QRCode_Attendance\login db\obj\Debug\login db.csproj.GenerateResource.Cache
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\login db.exe.config
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\obj\Debug\login db.exe
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\obj\Debug\login db.pdb
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\Details.accdb
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\test.accdb
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\login db.exe
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\login db.pdb
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\AForge.dll
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\AForge.Video.dll
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\zxing.dll
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\zxing.presentation.dll
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\AForge.xml
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\AForge.Video.xml
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\zxing.pdb
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\zxing.xml
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\zxing.presentation.pdb
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\bin\Debug\zxing.presentation.xml
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\obj\Debug\login db.csprojResolveAssemblyReference.cache
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\obj\Debug\login_db.Emplyeelog.resources
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\obj\Debug\login_db.Login.resources
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\obj\Debug\login_db.main.resources
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\obj\Debug\login_db.module.resources
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\obj\Debug\login_db.Properties.Resources.resources
+C:\Users\nitin\Desktop\QRCode_Attendance\login db\obj\Debug\login db.csproj.GenerateResource.Cache
